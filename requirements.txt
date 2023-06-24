@@ -1,0 +1,5 @@
+numpy==1.22.0 
+catboost==1.1.1 
+etna @ git+https://github.com/tinkoff-ai/etna.git@main
+pandas==1.5.3 
+pandas-profiling==3.6.6

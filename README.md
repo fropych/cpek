@@ -1,6 +1,6 @@
 # Ссылки
-* main.ipynb : https://colab.research.google.com/drive/1hYVtGKPnNAyYjcJKqKpyqaYOPfUMLKLN?usp=sharing  
-* train.ipynb : https://colab.research.google.com/drive/1k1MLtaZ9NqBsTiM0B3O6AAoDb76mvaEy?usp=sharing
+* main.ipynb : https://colab.research.google.com/drive/1EUwnGEkertJmA73jYWbl5l22GalLT8Wi?usp=sharing
+* train.ipynb : https://colab.research.google.com/drive/1S25uwBncUczSMJyWBPqLpSjlY5KGNzA2?usp=sharing
 
 * requirements.txt - зависимости для main.py
 * pipeline.zip - модель
